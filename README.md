@@ -40,18 +40,16 @@ The project answers two main questions:
 &nbsp;
 
 ## :robot: Models Used
-1. XGBoost (Boosted Decision Tree)  
+:one: XGBoost (Boosted Decision Tree)  
 Boosting builds sequentially. Each new tree corrects the mistakes of the previous ones.  
-
      * Model 1 (Baseline)  
      * Model 2 (Stratified train/test split)  
      * Model 3 (Class Weights)  
      * Model 4 (Adjusted Probability Threshold)   
      * Model 5 (Bayesian hyperparameter optimisation)  
 
-2. Random Forest (Bagged Decision Tree)  
+:two: Random Forest (Bagged Decision Tree)  
 Bagging builds many independent trees on boostrapped samples and average predictions.  
-
      * Model 1 (Baseline)   
      * Model 2 (Stratified train/test split)  
      * Model 3 (Class Weights)   
