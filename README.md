@@ -115,7 +115,7 @@ This suggests Labour's 2024 coalition appears structured more around education a
 
 &nbsp;
 
-## :hammer_and_wrench: Requirements
+## :gear: Requirements
 To run this project, install:
 * Pandas
 * Numpy
@@ -124,3 +124,27 @@ To run this project, install:
 * hyperopt
 * Matplotlib
 * Seaborn
+
+&nbsp;
+
+## :open_file_folder: Project Structure
+
+
+&nbsp;
+
+## :arrow_forward: How to replicate
+1. Download the [BES Wave 28](https://www.britishelectionstudy.com/data-object/wave-28-of-the-2014-2024-british-election-study-internet-panel/) dataset
+2. Place the dataset into the project directory 
+3. Run the main script - `MLSDS_Problem_Set_1.ipynb`
+
+&nbsp;
+
+## :page_facing_up: License
+
+
+&nbsp;
+
+## :bust_in_silhouette:
+**Author:** Ryan Whitehead
+**University:** University of Exeter
+**Course (Year):** MRes Social Science Research
