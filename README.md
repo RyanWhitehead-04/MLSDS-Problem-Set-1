@@ -152,7 +152,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 &nbsp;
 
-## :bust_in_silhouette:
+## :bust_in_silhouette: Author
 **Author:** Ryan Whitehead
 **University:** University of Exeter
 **Course (Year):** MRes Social Science Research
