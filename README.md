@@ -127,11 +127,6 @@ To run this project, install:
 
 &nbsp;
 
-## :open_file_folder: Project Structure
-
-
-&nbsp;
-
 ## :arrow_forward: How to replicate
 1. Download the [BES Wave 28](https://www.britishelectionstudy.com/data-object/wave-28-of-the-2014-2024-british-election-study-internet-panel/) dataset
 2. Place the dataset into the project directory 
