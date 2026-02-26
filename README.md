@@ -42,19 +42,19 @@ The project answers two main questions:
 ## :robot: Models Used
 :one: XGBoost (Boosted Decision Tree)  
 Boosting builds sequentially. Each new tree corrects the mistakes of the previous ones.  
-     * Model 1 (Baseline)  
-     * Model 2 (Stratified train/test split)  
-     * Model 3 (Class Weights)  
-     * Model 4 (Adjusted Probability Threshold)   
-     * Model 5 (Bayesian hyperparameter optimisation)  
+* Model 1 (Baseline)  
+* Model 2 (Stratified train/test split)  
+* Model 3 (Class Weights)  
+* Model 4 (Adjusted Probability Threshold)   
+* Model 5 (Bayesian hyperparameter optimisation using `hyperopt`)  
 
 :two: Random Forest (Bagged Decision Tree)  
 Bagging builds many independent trees on boostrapped samples and average predictions.  
-     * Model 1 (Baseline)   
-     * Model 2 (Stratified train/test split)  
-     * Model 3 (Class Weights)   
-     * Model 4 (Adjusted Probability Threshold)  
-     * Model 5 (Hyperparameter tuning using `RandomizedSearchCV`)
+* Model 1 (Baseline)   
+* Model 2 (Stratified train/test split)
+* Model 3 (Class Weights)   
+* Model 4 (Adjusted Probability Threshold)  
+* Model 5 (Hyperparameter tuning using `RandomizedSearchCV`)
 
 *Model improvements applied step by step*  
 
@@ -121,5 +121,6 @@ To run this project, install:
 * Numpy
 * Scikit-learn
 * Xgboost
+* hyperopt
 * Matplotlib
 * Seaborn
